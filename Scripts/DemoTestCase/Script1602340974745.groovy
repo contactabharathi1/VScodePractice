@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.comment('Changed in  remote')
+WebUI.comment('Changed in  ******')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
