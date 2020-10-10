@@ -18,6 +18,8 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
+WebUI.comment('Second Push')
+
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.delay(3)
