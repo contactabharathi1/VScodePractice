@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.comment('Second Push')
+WebUI.comment('Changed in local')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
